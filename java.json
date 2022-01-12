@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following is Faster, StringBuilder or StringBuffer in java?",
+        "2": "Which of those doesn’t have an index based structure in java?",
+        "3": "In java, methods such as reverse, shuffle are offered in:",
+        "4": "Which interface should be implemented for sorting on basis of many criteria’s (in Java)?",
+        "5": "Which attribute needs to be changed to make elements invisible?",
+        "6": "What language defines the behavior of a web page?",
+        "7": "Which of the following is a client-side Java Script object?",
+        "8": "Which of the following object represent parameters of current function inside any function?",
+        "9": "What will 1==\"1\" return in javascript?",
+        "10": "Which of the following is not a valid keyword in JavaScript?"
+    },
+    {
+        "1": {
+            "a": "StringBuilder",
+            "b": "StringBuffer",
+            "c": "Both",
+            "d": "None"
+        },
+        "2": {
+            "a": "List",
+            "b": "Set",
+            "c": "Map",
+            "d": "Array"
+        },
+        "3": {
+            "a": "Object",
+            "b": "Collection",
+            "c": "Collections",
+            "d": "Apache Commons Collections"
+        },
+        "4": {
+            "a": "Comparator",
+            "b": "Comparable",
+            "c": "Serializable",
+            "d": "None of the above"
+        },
+        "5": {
+            "a": "visibilty",
+            "b": "visible",
+            "c": "invisibility",
+            "d": "invisible"
+        },
+        "6": {
+            "a": "HTML",
+            "b": "CSS",
+            "c": "XML",
+            "d": "Java Script"
+        },
+        "7": {
+            "a": "File",
+            "b": "Function",
+            "c": "FileUpload",
+            "d": "Time"
+        },
+        "8": {
+            "a": "Global",
+            "b": "arguments",
+            "c": "this",
+            "d": "Object"
+        },
+        "9": {
+            "a": "True",
+            "b": "False",
+            "c": "0",
+            "d": "1"
+        },
+        "10": {
+            "a": "function",
+            "b": "this",
+            "c": "module",
+            "d": "try"
+        }
+    },
+    {
+        "1": "StringBuilder",
+        "2": "Set",
+        "3": "Collections",
+        "4": "Comparator",
+        "5": "visibilty",
+        "6": "Java Script",
+        "7": "FileUpload",
+        "8": "arguments",
+        "9": "True",
+        "10": "module"
+    }
+]

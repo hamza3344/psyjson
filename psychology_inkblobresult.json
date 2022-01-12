@@ -1,0 +1,55 @@
+[{
+    "1": {
+        "a": "Thinking about your's body image is normal and average",
+        "b": "Thinking about your's body image has a small level of paranoids.",
+        "c": "Thinking about your's body image has negative feelings."
+    },
+    "2": {
+        "a": "Your tendency for interpersonal communication is normal and average.",
+        "b": "You find it difficult to control the anger.",
+        "c": "You may have trouble to communicating with others.",
+        "d": "You have a strong desired to dominate others."
+    },
+    "3": {
+        "a": "The people have a heterosexual inclination.",
+        "b": "The people have some homosexual tendencies."
+    },
+    "4": {
+        "a": "You become confident when deals with authority.",
+        "b": "You find it difficult to deals with authority.",
+        "c": "You find it difficult to deals with female figure authority."
+    },
+    "5": {
+        "a": "You have a normal tendency about hostility.",
+        "b": "You have a strong natural tendency of hostility towards others.",
+        "c": "You have a risk of schizophrenia.",
+        "d": "You might have a castration complex."
+    },
+    "6": {
+        "a": "You might incline tactile sensation.",
+        "b": "You are sexually dominant.",
+        "c": "You wants to be in a relationship at all the time..",
+        "d": "You might be high when in relationships."
+    },
+    "7": {
+        "a": "You might have difficulty related to females.",
+        "b": "You don't have significant female issues.",
+        "c": "You might have significant female issues.",
+        "d":"You might feel anxiety when deals with females."
+    },
+    "8": {
+        "a": "You might have an observing problem while processing a complex situation.",
+        "b": "You have a normal approach while dealing complex situations.",
+        "c": "You find it difficult to handle a complex situation."
+    },
+    "9": {
+        "a": "You have an extreme aversion towards unstructured data.",
+        "b": "You might have problems with social interaction.",
+        "c": "You might have problems with social interaction."
+    },
+    "10": {
+        "a": "You are satisfied with the current situation in life.",
+        "b": "You feel that losing control of life.",
+        "c": "You have an oral fixation."
+    }
+}]

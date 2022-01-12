@@ -1,0 +1,376 @@
+[
+    {
+        "1":"You are following your routine/timetable ",
+        "2":"You are usually documentation/discussion about your work before starting the work ",
+        "3":"You change your views easily about a specific person/thing when necessary ",
+        "4":"While taking a decision (about anything) you have enough information but you want to get more information ",
+        "5":"You come with a new idea but struggling to implement it",
+        "6":"You usually start the work but struggle to finish it",
+        "7":"You think step by step while doing the task",
+        "8":"You outline your desires and needs",
+        "9":"You try to get as many as possible options or time when you taking action",
+        "10":"Sometimes you are focusing so much on the goal that you miss new information",
+        "11":"Sometimes truth does not works well",
+        "12":"You choose to work with your friend rather than a stranger honest person",
+        "13":"You think about another person's feelings while taking actions",
+        "14":"You make decisions with your heart and want to be compassionate",
+        "15":"You feel conflict situations very challenging",
+        "16":"You make decisions based on facts and objectives",
+        "17":"When a decision is made, it cannot be changed no matter what the outcome",
+        "18":"You find it difficult to work into a system where nepotism/corruption exists",
+        "19":"You believe telling the truth is more important than being tactful",
+        "20":"Sometimes you miss or don't value the people or their feels",
+        "21":"You rely on past experiences while dealing with problems",
+        "22":"You prefer to work for clear products/ideas rather than imaginative ones",
+        "23":"While working, you prefer to get into the details of projects/work",
+        "24":"Sometimes you pay so much attention to facts, either present or past, that you miss new possibilities",
+        "25":"You remember events as snapshots/Pictures of what actually happened",
+        "26":"You want to change the world rather than simply living in it",
+        "27":"You get bored with repetitive work that does not engage your creativity/problem-solving skills",
+        "28":"You give value/importance to innovation and imagination",
+        "29":"You want to understand the real and hidden meaning in any event/speech",
+        "30":"You like to see the big picture/idea, then to find out the facts",
+        "31":"You are consider good talkers",
+        "32":"You like social gatherings and parties",
+        "33":"You have all the attributes/qualities of a good leader",
+        "34":"You have a wide range of friends and know lots of people",
+        "35":"You sometimes jump too quickly into an activity and don't allow enough time to think it over",
+        "36":"You feel energized by spending time alone",
+        "37":"You think before talking",
+        "38":"You often live in the inner world of ideas and reflection",
+        "39":"You sometimes spend too much time reflecting and don't move into action quickly enough",
+        "40":"You seek depth of knowledge and influence"
+    },{
+        "1": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "2": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "3": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "4": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "5": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "6": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "7": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "8": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "9": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "10": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "11": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "12": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "13": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "14": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "15": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "16": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "17": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "18": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "19": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "20": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "21": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "22": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "23": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "24": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "25": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "26": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "27": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "28": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "29": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "30": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "31": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "32": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "33": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "34": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "35": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "36": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "37": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "38": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "39": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        },
+        "40": {
+            "a": "Strongly agree",
+            "b": "Agree",
+            "c": "Neutral",
+            "d": "Disagree",
+            "e": "Strongly Disagree"
+        }
+    },
+    {
+        "1":"j",
+        "2":"j",
+        "3":"p",
+        "4":"p",
+        "5":"p",
+        "6":"p",
+        "7":"j",
+        "8":"j",
+        "9":"p",
+        "10":"j",
+        "11":"f",
+        "12":"f",
+        "13":"f",
+        "14":"f",
+        "15":"f",
+        "16":"t",
+        "17":"t",
+        "18":"t",
+        "19":"t",
+        "20":"t",
+        "21":"s",
+        "22":"s",
+        "23":"s",
+        "24":"s",
+        "25":"s",
+        "26":"n",
+        "27":"n",
+        "28":"n",
+        "29":"n",
+        "30":"n",
+        "31":"e",
+        "32":"e",
+        "33":"e",
+        "34":"e",
+        "35":"e",
+        "36":"i",
+        "37":"i",
+        "38":"i",
+        "39":"i",
+        "40":"i"
+    },
+    {
+        "total":"40"
+    },
+    {
+        "colors":"false"
+    },
+    {
+        "skip":"false"
+    }
+]

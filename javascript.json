@@ -1,0 +1,94 @@
+[
+    {
+        "1": "Which of the following is a server-side Java Script object?",
+        "2": "To insert a JavaScript into an HTML page, which tag is used?",
+        "3": "Which of the below is used in Java script to insert special characters?",
+        "4": "Which of the following is the tainted property of a window object in Java Script?",
+        "5": "Which attribute needs to be changed to make elements invisible?",
+        "6": "What language defines the behavior of a web page?",
+        "7": "Which of the following is a client-side Java Script object?",
+        "8": "Which of the following object represent parameters of current function inside any function?",
+        "9": "What will 1==\"1\" return in javascript?",
+        "10": "Which of the following is not a valid keyword in JavaScript?"
+    },
+    {
+        "1": {
+            "a": "Function",
+            "b": "File",
+            "c": "FileUpload",
+            "d": "Date"
+        },
+        "2": {
+            "a": "<script='java'>",
+            "b": "<javascript>",
+            "c": "<script>",
+            "d": "<js>"
+        },
+        "3": {
+            "a": "&",
+            "b": "\\",
+            "c": "-",
+            "d": "%"
+        },
+        "4": {
+            "a": "Pathname",
+            "b": "Protocol",
+            "c": "Defaultstatus",
+            "d": "Host"
+        },
+        "5": {
+            "a": "visibilty",
+            "b": "visible",
+            "c": "invisibility",
+            "d": "invisible"
+        },
+        "6": {
+            "a": "HTML",
+            "b": "CSS",
+            "c": "XML",
+            "d": "Java Script"
+        },
+        "7": {
+            "a": "File",
+            "b": "Function",
+            "c": "FileUpload",
+            "d": "Time"
+        },
+        "8": {
+            "a": "Global",
+            "b": "arguments",
+            "c": "this",
+            "d": "Object"
+        },
+        "9": {
+            "a": "True",
+            "b": "False",
+            "c": "0",
+            "d": "1"
+        },
+        "10": {
+            "a": "function",
+            "b": "this",
+            "c": "module",
+            "d": "try"
+        }
+    },
+    {
+        "1": "File",
+        "2": "<script>",
+        "3": "\\",
+        "4": "Defaultstatus",
+        "5": "visibilty",
+        "6": "Java Script",
+        "7": "FileUpload",
+        "8": "arguments",
+        "9": "True",
+        "10": "module"
+    },
+    {
+        "total":"10"
+    },
+    {
+        "colors":"true"
+    }
+]

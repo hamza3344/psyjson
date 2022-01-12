@@ -1,0 +1,229 @@
+[
+    {
+        "1":"Artist is to painting as senator is to",
+        "2":"Pride is to lion as shoal is to",
+        "3":"Reptile is to lizard as flower is to",
+        "4":"That which cannot be corrected",
+        "5":"Dancer is to stage as Ministry is to",
+        "6":"1: 1:: 25:?",
+        "7":"25:37:: 49:?",
+        "8":"9:8:: 16:?",
+        "9":"20:11:: 102:?",
+        "10":"3, 7,13,21,31,",
+        "11":"Let a=4, b=2 and arithmetical operation makes this series: 2, 8, 2",
+        "12":"1, 2, 0.5, 3, 1, 0.34,",
+        "13":"720, 720, 360, 120, 30,",
+        "14":"Which word does NOT belong with the others?",
+        "15":"Which word does NOT belong with the others?",
+        "16":"Which word does NOT belong with the others?",
+        "17":"Which word does NOT belong with the others?",
+        "18":"Which word does NOT belong with the others?",
+        "19":"Choose the odd one out.",
+        "20":"Choose the odd one out.",
+        "21":"Choose the odd one out.",
+        "22":"FAG, GAF, HAI, IAH,",
+        "23":"ZA\u2085, Y\u2084B, XC\u2086, W\u2083D,",
+        "24":"QAR, RAS, SAT, TAU,",
+        "25":"tamcenp means sky blue\ncenprax means blue cheese\naplmitl means star bright\nWhich word could mean 'bright sky'?",
+        "26":"slar means jump\nslary means jumping\nslarend means jumped\nWhich word could mean 'playing'?",
+        "27":"Statements: Some kings are queens\nAll queens are beautiful\nConclusions: All kings are beautiful\nAll queens are kings"
+    },
+    {
+        "1": {
+            "a": "Attorney",
+            "b": "Law",
+            "c": "politician",
+            "d": "constituents"
+        },
+        "2": {
+            "a": "Teacher",
+            "b": "student",
+            "c": "self-respect",
+            "d": "fish"
+        },
+        "3": {
+            "a": "Petal",
+            "b": "stem",
+            "c": "daisy",
+            "d": "alligator"
+        },
+        "4": {
+            "a": "Unintelligible",
+            "b": "Indelible",
+            "c": "Illegible",
+            "d": "Incorrigible"
+        },
+        "5": {
+            "a": "Pulpit",
+            "b": "Assembly",
+            "c": "Parliament",
+            "d": "state"
+        },
+        "6": {
+            "a": "26",
+            "b": "125",
+            "c": "240",
+            "d": "625"
+        },
+        "7": {
+            "a": "41",
+            "b": "56",
+            "c": "60",
+            "d": "65"
+        },
+        "8": {
+            "a": "17",
+            "b": "15",
+            "c": "14",
+            "d": "18"
+        },
+        "9": {
+            "a": "49",
+            "b": "52",
+            "c": "61",
+            "d": "98"
+        },
+        "10": {
+            "a": "43",
+            "b": "50",
+            "c": "47",
+            "d": "45"
+        },
+        "11": {
+            "a": "6",
+            "b": "8",
+            "c": "10",
+            "d": "4"
+        },
+        "12": {
+            "a": "0.25",
+            "b": "4",
+            "c": "0.37",
+            "d": "0.75"
+        },
+        "13": {
+            "a": "5",
+            "b": "4",
+            "c": "6",
+            "d": "10"
+        },
+        "14": {
+            "a": "Inch",
+            "b": "ounce",
+            "c": "centimeter",
+            "d": "yard"
+        },
+        "15": {
+            "a": "Street",
+            "b": "freeway",
+            "c": "interstate",
+            "d": "expressway"
+        },
+        "16": {
+            "a": "Index",
+            "b": "glossary",
+            "c": "chapter",
+            "d": "book"
+        },
+        "17": {
+            "a": "Three",
+            "b": "five",
+            "c": "six",
+            "d": "seven"
+        },
+        "18": {
+            "a": "Lawyer",
+            "b": "governor",
+            "c": "judge",
+            "d": "attorney"
+        },
+        "19": {
+            "a": "HSRI",
+            "b": "MVUN",
+            "c": "OLKP",
+            "d": "PJQX"
+        },
+        "20": {
+            "a": "AOT",
+            "b": "CPA",
+            "c": "REB",
+            "d": "QUD"
+        },
+        "21": {
+            "a": "729",
+            "b": "64",
+            "c": "441",
+            "d": "343"
+        },
+        "22": {
+            "a": "JAK",
+            "b": "HAL",
+            "c": "HAK",
+            "d": "JAI"
+        },
+        "23": {
+            "a": "E\u2087V",
+            "b": "V\u2082E",
+            "c": "VE\u2085",
+            "d": "VE\u2087"
+        },
+        "24": {
+            "a": "UAV",
+            "b": "UAT",
+            "c": "TAS",
+            "d": "TAT"
+        },
+        "25": {
+            "a": "Cenptam",
+            "b": "mitltam",
+            "c": "raxmitl",
+            "d": "aplcenp"
+        },
+        "26": {
+            "a": "Clargslarend",
+            "b": "clergy",
+            "c": "ellaclarg",
+            "d": "slarmont"
+        },
+        "27": {
+            "a": "Only conclusion I follows",
+            "b": "Either I or II follows",
+            "c": "Only conclusion II follows",
+            "d": "Neither I nor II follows"
+        }
+    },{
+        "1":"Law",
+        "2":"fish",
+        "3":"daisy",
+        "4":"Incorrigible",
+        "5":"Pulpit",
+        "6":"625",
+        "7":"65",
+        "8":"15",
+        "9":"52",
+        "10":"43",
+        "11":"6",
+        "12":"4",
+        "13":"6",
+        "14":"ounce",
+        "15":"Street",
+        "16":"book",
+        "17":"six",
+        "18":"governor",
+        "19":"PJQX",
+        "20":"CPA",
+        "21":"441",
+        "22":"JAK",
+        "23":"VE\u2087",
+        "24":"UAV",
+        "25":"mitltam",
+        "26":"clergy",
+        "27":"Neither I nor II follows"
+    },{
+        "total":"27"
+    },{
+        "colors":"true"
+    },{
+        "skip":"true"
+    }
+]

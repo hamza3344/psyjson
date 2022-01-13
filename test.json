@@ -23,15 +23,8 @@
   {
     "id": 4,
     "language": "psychology test1",
-    "image": "https://raw.githubusercontent.com/hamza3344/images/main/cpp.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/testpic.jpg",
     "description":
         "Psychological testing is the administration of psychological tests. A person's responses are evaluated according to carefully prescribed guidelines. Scores are thought to reflect individual or group differences in the construct the test purports to measure."
-  },
-  {
-    "id": 4,
-    "language": "Linux",
-    "image": "https://raw.githubusercontent.com/hamza3344/images/main/linux.png",
-    "description":
-        "Linux is a OPEN SOURCE Operating System which powers many Servers and Workstation.\nIt is also a top Priority in Developement Work !"
   }
 ]

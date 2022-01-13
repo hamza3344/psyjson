@@ -2,35 +2,35 @@
   {
     "id": 1,
     "language": "Mbti",
-    "image": "images/Mbti.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/Mbti.png",
     "description":
         "Myers-Briggs Type Indicator (MBTI) is an introspective self-report questionnaire indicating differing psychological preferences in how people perceive the world and make decisions."
   },
   {
     "id": 2,
     "language": "iq",
-    "image": "images/iq.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/iq.png",
     "description":
         "An intelligence quotient (IQ) is a total score derived from a set of standardized tests designed to assess human intelligence. The abbreviation 'IQ' was coined by the William Stern for the German term Intelligenzquotient."
   },
   {
     "id": 3,
     "language": "psychology inkblob",
-    "image": "images/js.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/js.png",
     "description":
         "The Rorschach test is a psychological test in which 'subjects' perceptions of inkblots are recorded and then analyzed using psychological interpretation. Some psychologists use this test to examine a person's personality."
   },
   {
     "id": 4,
     "language": "C++",
-    "image": "images/cpp.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/cpp.png",
     "description":
         "C++, being a statically typed programming language is very powerful and Fast.\nit's DMA feature makes it more useful. !"
   },
   {
     "id": 4,
     "language": "Linux",
-    "image": "images/linux.png",
+    "image": "https://raw.githubusercontent.com/hamza3344/images/main/linux.png",
     "description":
         "Linux is a OPEN SOURCE Operating System which powers many Servers and Workstation.\nIt is also a top Priority in Developement Work !"
   }

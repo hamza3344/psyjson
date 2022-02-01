@@ -225,5 +225,7 @@
         "colors":"true"
     },{
         "skip":"true"
+    },{
+        "timer":"true"
     }
 ]

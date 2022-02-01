@@ -372,5 +372,8 @@
     },
     {
         "skip":"false"
+    },
+    {
+        "timer":"false"
     }
 ]

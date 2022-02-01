@@ -226,6 +226,6 @@
     },{
         "skip":"true"
     },{
-        "timer":"true"
+        "timer":"false"
     }
 ]
